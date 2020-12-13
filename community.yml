@@ -81,6 +81,7 @@
     - { role: tdarr, tags: ['tdarr'] }
     - { role: telly, tags: ['telly'] }
     - { role: thelounge, tags: ['thelounge'] }
+    - { role: tmm, tags: ['tmm'] }
     - { role: transmissionvpn, tags: ['transmissionvpn'] }
     - { role: unifi, tags: ['unifi'] }
     - { role: unmanic, tags: ['unmanic'] }
