@@ -96,6 +96,7 @@ environment:
     tdarr
     telegraf
     thelounge
+    tmm
     transmissionvpn
     transmissionx
     ubooquity
